@@ -1,0 +1,2 @@
+Perimeter of a triangle 12,9574173292381
+Area of a triangle 6,24499799839839

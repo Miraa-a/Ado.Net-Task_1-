@@ -1,0 +1,35 @@
+C:\Users\Эльмира\Downloads\Epam_Ismaylova_Task_1\Epam.Ismaylova.Task_1\bin\Debug\Epam.Ismaylova.Task_1.exe.config
+C:\Users\Эльмира\Downloads\Epam_Ismaylova_Task_1\Epam.Ismaylova.Task_1\bin\Debug\Epam.Ismaylova.Task_1.exe
+C:\Users\Эльмира\Downloads\Epam_Ismaylova_Task_1\Epam.Ismaylova.Task_1\bin\Debug\Epam.Ismaylova.Task_1.pdb
+C:\Users\Эльмира\Downloads\Epam_Ismaylova_Task_1\Epam.Ismaylova.Task_1\obj\Debug\Epam.Ismaylova.Task_1.csprojResolveAssemblyReference.cache
+C:\Users\Эльмира\Downloads\Epam_Ismaylova_Task_1\Epam.Ismaylova.Task_1\obj\Debug\Epam.Ismaylova.Task_1.csproj.CoreCompileInputs.cache
+C:\Users\Эльмира\Downloads\Epam_Ismaylova_Task_1\Epam.Ismaylova.Task_1\obj\Debug\Epam.Ismaylova.Task_1.exe
+C:\Users\Эльмира\Downloads\Epam_Ismaylova_Task_1\Epam.Ismaylova.Task_1\obj\Debug\Epam.Ismaylova.Task_1.pdb
+C:\Users\Эльмира\Downloads\Epam_Ismaylova_Task__1\Epam.Ismaylova.Task_1\bin\Debug\Epam.Ismaylova.Task_1.exe.config
+C:\Users\Эльмира\Downloads\Epam_Ismaylova_Task__1\Epam.Ismaylova.Task_1\bin\Debug\Epam.Ismaylova.Task_1.exe
+C:\Users\Эльмира\Downloads\Epam_Ismaylova_Task__1\Epam.Ismaylova.Task_1\bin\Debug\Epam.Ismaylova.Task_1.pdb
+C:\Users\Эльмира\Downloads\Epam_Ismaylova_Task__1\Epam.Ismaylova.Task_1\obj\Debug\Epam.Ismaylova.Task_1.csprojResolveAssemblyReference.cache
+C:\Users\Эльмира\Downloads\Epam_Ismaylova_Task__1\Epam.Ismaylova.Task_1\obj\Debug\Epam.Ismaylova.Task_1.csproj.CoreCompileInputs.cache
+C:\Users\Эльмира\Downloads\Epam_Ismaylova_Task__1\Epam.Ismaylova.Task_1\obj\Debug\Epam.Ismaylova.Task_1.exe
+C:\Users\Эльмира\Downloads\Epam_Ismaylova_Task__1\Epam.Ismaylova.Task_1\obj\Debug\Epam.Ismaylova.Task_1.pdb
+C:\Users\IsmaylovaED\Downloads\Epam_Ismaylova_Task__1\Epam.Ismaylova.Task_1\bin\Debug\Epam.Ismaylova.Task_1.exe.config
+C:\Users\IsmaylovaED\Downloads\Epam_Ismaylova_Task__1\Epam.Ismaylova.Task_1\bin\Debug\Epam.Ismaylova.Task_1.exe
+C:\Users\IsmaylovaED\Downloads\Epam_Ismaylova_Task__1\Epam.Ismaylova.Task_1\bin\Debug\Epam.Ismaylova.Task_1.pdb
+C:\Users\IsmaylovaED\Downloads\Epam_Ismaylova_Task__1\Epam.Ismaylova.Task_1\obj\Debug\Epam.Ismaylova.Task_1.csprojResolveAssemblyReference.cache
+C:\Users\IsmaylovaED\Downloads\Epam_Ismaylova_Task__1\Epam.Ismaylova.Task_1\obj\Debug\Epam.Ismaylova.Task_1.csproj.CoreCompileInputs.cache
+C:\Users\IsmaylovaED\Downloads\Epam_Ismaylova_Task__1\Epam.Ismaylova.Task_1\obj\Debug\Epam.Ismaylova.Task_1.exe
+C:\Users\IsmaylovaED\Downloads\Epam_Ismaylova_Task__1\Epam.Ismaylova.Task_1\obj\Debug\Epam.Ismaylova.Task_1.pdb
+C:\Users\Эльмира\Downloads\Epam_Ismaylova_Task__1(0)\Epam.Ismaylova.Task_1\bin\Debug\Epam.Ismaylova.Task_1.exe.config
+C:\Users\Эльмира\Downloads\Epam_Ismaylova_Task__1(0)\Epam.Ismaylova.Task_1\bin\Debug\Epam.Ismaylova.Task_1.exe
+C:\Users\Эльмира\Downloads\Epam_Ismaylova_Task__1(0)\Epam.Ismaylova.Task_1\bin\Debug\Epam.Ismaylova.Task_1.pdb
+C:\Users\Эльмира\Downloads\Epam_Ismaylova_Task__1(0)\Epam.Ismaylova.Task_1\obj\Debug\Epam.Ismaylova.Task_1.csprojResolveAssemblyReference.cache
+C:\Users\Эльмира\Downloads\Epam_Ismaylova_Task__1(0)\Epam.Ismaylova.Task_1\obj\Debug\Epam.Ismaylova.Task_1.csproj.CoreCompileInputs.cache
+C:\Users\Эльмира\Downloads\Epam_Ismaylova_Task__1(0)\Epam.Ismaylova.Task_1\obj\Debug\Epam.Ismaylova.Task_1.exe
+C:\Users\Эльмира\Downloads\Epam_Ismaylova_Task__1(0)\Epam.Ismaylova.Task_1\obj\Debug\Epam.Ismaylova.Task_1.pdb
+C:\Users\IsmaylovaED\Downloads\Epam_Ismaylova_Task_1 (2)\Epam_Ismaylova_Task_1 (2)\Epam.Ismaylova.Task_1\bin\Debug\Epam.Ismaylova.Task_1.exe.config
+C:\Users\IsmaylovaED\Downloads\Epam_Ismaylova_Task_1 (2)\Epam_Ismaylova_Task_1 (2)\Epam.Ismaylova.Task_1\bin\Debug\Epam.Ismaylova.Task_1.exe
+C:\Users\IsmaylovaED\Downloads\Epam_Ismaylova_Task_1 (2)\Epam_Ismaylova_Task_1 (2)\Epam.Ismaylova.Task_1\bin\Debug\Epam.Ismaylova.Task_1.pdb
+C:\Users\IsmaylovaED\Downloads\Epam_Ismaylova_Task_1 (2)\Epam_Ismaylova_Task_1 (2)\Epam.Ismaylova.Task_1\obj\Debug\Epam.Ismaylova.Task_1.csprojResolveAssemblyReference.cache
+C:\Users\IsmaylovaED\Downloads\Epam_Ismaylova_Task_1 (2)\Epam_Ismaylova_Task_1 (2)\Epam.Ismaylova.Task_1\obj\Debug\Epam.Ismaylova.Task_1.csproj.CoreCompileInputs.cache
+C:\Users\IsmaylovaED\Downloads\Epam_Ismaylova_Task_1 (2)\Epam_Ismaylova_Task_1 (2)\Epam.Ismaylova.Task_1\obj\Debug\Epam.Ismaylova.Task_1.exe
+C:\Users\IsmaylovaED\Downloads\Epam_Ismaylova_Task_1 (2)\Epam_Ismaylova_Task_1 (2)\Epam.Ismaylova.Task_1\obj\Debug\Epam.Ismaylova.Task_1.pdb
